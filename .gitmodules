@@ -1,3 +1,6 @@
 [submodule "HTML CSS"]
 	path = HTML CSS
 	url = https://github.com/Iswenzz/Simplon-HTML-CSS.git
+[submodule "JS"]
+	path = JS
+	url = https://github.com/Iswenzz/Simplon-JS.git
