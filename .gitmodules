@@ -4,3 +4,6 @@
 [submodule "JS"]
 	path = JS
 	url = https://github.com/Iswenzz/Simplon-JS.git
+[submodule "PHP SQL"]
+	path = PHP SQL
+	url = https://github.com/Iswenzz/Simplon-PHP-SQL.git
