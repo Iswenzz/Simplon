@@ -1,9 +1,9 @@
 [submodule "HTML CSS"]
 	path = HTML CSS
-	url = https://github.com/Iswenzz/Simplon-HTML-CSS.git
+	url = git@github.com:Iswenzz/Simplon-HTML-CSS.git
 [submodule "JS"]
 	path = JS
-	url = https://github.com/Iswenzz/Simplon-JS.git
+	url = git@github.com:Iswenzz/Simplon-JS.git
 [submodule "PHP SQL"]
 	path = PHP SQL
-	url = https://github.com/Iswenzz/Simplon-PHP-SQL.git
+	url = git@github.com:Iswenzz/Simplon-PHP-SQL.git
